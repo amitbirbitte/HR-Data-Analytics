@@ -35,7 +35,7 @@ It analyzes employee demographics, hiring trends, gender distribution, diversity
 Include your dataset here or provide a link.
 
 ## 📊 Dashboard Preview
-(Add dashboard screenshots inside `screenshots/` folder)
+(Add dashboard screenshots inside `screenshots/dashboard.png` folder)
 
 ## 🔍 Key Insights
 - Remote employee percentage increased across multiple states.
