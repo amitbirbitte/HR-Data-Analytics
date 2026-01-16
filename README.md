@@ -25,17 +25,16 @@ It analyzes employee demographics, hiring trends, gender distribution, diversity
 
 ## 📂 Repository Structure
 ```
-|-- data/
-|-- powerbi/
-|-- screenshots/
+|-- Data/
+|-- Python
+|-- Power BI/
+|-- Screenshots/
 |-- README.md
 ```
 
-## 📥 Dataset
-Include your dataset here or provide a link.
 
 ## 📊 Dashboard Preview
-(Add dashboard screenshots inside `screenshots/dashboard.png` folder)
+
 
 ## 🔍 Key Insights
 - Remote employee percentage increased across multiple states.
